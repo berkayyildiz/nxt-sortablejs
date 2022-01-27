@@ -54,7 +54,7 @@ MIT
 ngx-bootstrap/utils
 MIT
 
-ngx-sortablejs
+nxt-sortablejs
 MIT
 
 rxjs
